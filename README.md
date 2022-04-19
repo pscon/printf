@@ -4,7 +4,7 @@ A customized printf function for ALX Software Engineering course
 
 0x11. C - printf
 
-Project done by: Ekunola Paul, Marvelous Osas.
+Project done by: Ekunola Paul and Efebe Osakpolor.
 
 
 
