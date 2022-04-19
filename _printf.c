@@ -1,5 +1,4 @@
-#include "main.h"
-#include <stdio.h>
+#include "holberton.h"
 
 /**
  * _printf - produces output according to a format
