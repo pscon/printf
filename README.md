@@ -1,4 +1,4 @@
-**Custom printf function: an ALX-project**
+_**Custom printf function: an ALX-project**_
 
 A customized printf function for ALX Software Engineering course
 
