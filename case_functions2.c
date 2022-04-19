@@ -3,7 +3,7 @@
 
 /**
  * print_ptr - print_base16_upper_lower
- * @arg: va_list parameter
+ * @arg: va_list parameter.
  * Description: This function prints address pointer
  * in representation parameter for print hexadecimal format
  * Return: address pointer
